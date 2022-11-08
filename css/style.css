@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Shrikhand&display=swap');* {
+	/* box-sizing: border-box; */
+	margin: 0;
+}
+body {
+    background-color: #fff;
+    font-family: 'Shrikhand', Arial, Helvetica, sans-serif;
+	font-style: normal;
+    color: #000;
+}
+
+/* Les couleurs */
+.primary {
+    background-color: #9356DC;
+}
+.secondary {
+    background-color: #FF79DA;
+}
+.tertiary {
+    background-color: #99E2D0;
+}
+.greydark {
+    color: #353535;
+}
+
+/* Les polices */
+
+p {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+h1, h2, h3 {
+    font-family: 'Shrikhand', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+/* Les icones */
